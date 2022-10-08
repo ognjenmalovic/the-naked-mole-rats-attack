@@ -1,0 +1,50 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="1GUBp)boCLEXmOH(atht" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="COQDjX2oKEg^GA^nqzbY"><value name="color"><shadow type="colorindexpicker" id="`?rc?;zv]|7RxThv5,O*"><field name="index">9</field></shadow></value><next><block type="function_call" id="LW3voJO*xeB8%G0G|$)@"><mutation name="goInstructions" functionid="as%ANSblkO4r}EV1v,#("></mutation></block></next></block></statement></block><block type="function_definition" id="3z,Af%vfZ]+u8b+gM|7^" x="-10" y="250"><mutation name="goInstructions" functionid="as%ANSblkO4r}EV1v,#("></mutation><field name="function_name">goInstructions</field><statement name="STACK"><block type="game_dialog_set_frame" id="|~fnHvBW_abfPWi68i{W"><value name="frame"><shadow type="dialog_image_picker"><field name="img">img`
+a a a a a a a a a a a a a a a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a 5 5 5 5 5 5 5 5 5 5 5 5 5 a 
+a a a a a a a a a a a a a a a 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"%:.2hw-,eVl$Hm8eYW--"}}</data></shadow><block type="dialog_image_picker" id="l7jvMxFu|P,.Uf_64*tf"><field name="img">img`
+f f f f f f f f f f f f f f f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f 5 5 5 5 5 5 5 5 5 5 5 5 5 f 
+f f f f f f f f f f f f f f f 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"l7jvMxFu|P,.Uf_64*tf"}}</data></block></value><next><block type="game_show_long_text" id="ry_I#uv]O{,#;1iTuecf"><field name="layout">DialogLayout.Center</field><value name="str"><shadow type="text" id="^!paZ2e[S#gHQ$Sx*_?o"><field name="TEXT">A long time ago in a galaxy far, far away</field></shadow></value><next><block type="game_show_long_text" id="rhulMG)aaD+EF%#9S7AP"><field name="layout">DialogLayout.Center</field><value name="str"><shadow type="text" id="3Q]]5(+FJ6ITJ-Hp;ART"><field name="TEXT">horizon student XXX came to his school garden and encountered strange event</field></shadow></value><next><block type="game_show_long_text" id=";R)tsln[nY?$d^I6J-9r"><field name="layout">DialogLayout.Center</field><value name="str"><shadow type="text" id="?fbAF?=fN/{]%oKPAWMB"><field name="TEXT">hordes of Naked mole-rats attacked his carrots, cabbage and lettuce</field></shadow></value><next><block type="game_show_long_text" id="yi/`_X@%QD6B`QN+bIGN"><field name="layout">DialogLayout.Center</field><value name="str"><shadow type="text" id="fnVX2zAjXIy*[:Cn/`*7"><field name="TEXT">Defend school garden!!!</field></shadow></value></block></next></block></next></block></next></block></next></block></statement></block><block type="game_dialog_set_cursor" id="_Mi@rsO6fPw{ux++YCCL" disabled="true" x="-50" y="650"><value name="frame"><shadow type="screen_image_picker" id="8JR9N$uh4OGq[+77AN4M" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"8JR9N$uh4OGq[+77AN4M"}}</data></shadow></value></block></xml>
